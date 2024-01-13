@@ -29,6 +29,6 @@ Developed an automatic bot using Python and Google Cloud Console to register mys
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/gym-reservation-bot.git
+   git clone https://github.com/sirbor/gym-reservation-bot.git
 
 
